@@ -11,5 +11,6 @@ Solana資源
 
 ## On chain program 技巧
 
-### Anchor
-- [Init_if_needed in Anchor and the Reinitialization Attack](https://www.rareskills.io/post/init-if-needed-anchor)
+- 關於Anchor Init: [Init_if_needed in Anchor and the Reinitialization Attack](https://www.rareskills.io/post/init-if-needed-anchor)
+
+- Security: https://www.helius.dev/blog/a-hitchhikers-guide-to-solana-program-security
