@@ -15,4 +15,6 @@ Solana資源
 
 ## General Tutorial
 
-- https://www.rareskills.io/solana-tutorial
+- 60 Days of Solana: https://www.rareskills.io/solana-tutorial
+
+- Security: https://www.helius.dev/blog/a-hitchhikers-guide-to-solana-program-security
