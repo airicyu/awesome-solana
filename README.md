@@ -7,9 +7,12 @@ Solana資源
 
 - React Web App: https://github.com/airicyu/sol-app-template
 
+- SPL token vault sample (Anchor): https://github.com/airicyu/soma_token_vault
+
 ## 空投工具 Airdrop tools
 
-## On chain program 技巧
+## Solana program
 
-### Anchor
-- [Init_if_needed in Anchor and the Reinitialization Attack](https://www.rareskills.io/post/init-if-needed-anchor)
+## General Tutorial
+
+- https://www.rareskills.io/solana-tutorial
